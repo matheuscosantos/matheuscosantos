@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**matheuscosantos/matheuscosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :books: Estou cursando o 3º ano de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos
+- 🔭 Faço estágio em Desenvolvimento Web na [Necto Systems](http://nectosystems.com.br/en/)
+- 🌱 Estou estudando Python, Django, Flutter e Selenium
+- 👯 Estou trabalhando nos projetos:
+  - [LiterAll](https://github.com/matheuscosantos/trabalho-disp-moveis)
+  - [Safe_Share](https://github.com/RodrigoMarcelin/safe_share)
+  - Trabalho de graduação - Sistema de gerenciamento e execução de testes em sistemas web administrativos
+- 💬 Pergunte-me sobre Spring Boot
+- 📫 Contato: oliveiramatheus77@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:shipit:
