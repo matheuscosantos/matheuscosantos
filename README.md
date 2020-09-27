@@ -5,7 +5,7 @@
 - 🌱 No momento estudo Python, Django, Flutter e Selenium
 - 👯 Projetos em andamento:
   - [LiterAll](https://github.com/matheuscosantos/api-literall) - Spring Boot e Flutter
-  - [Safe_Share](https://github.com/RodrigoMarcelin/safe_share) - Django REST
+  - [Safe_Share](https://github.com/RodrigoMarcelin/safe_share) - Spring Boot
   - Trabalho de graduação - Sistema de gerenciamento e execução de testes em sistemas web administrativos - Docker, Flask e Selenium
   - [Tutorial para iniciantes sobre Spring Boot](https://github.com/matheuscosantos/tutorial-spring-boot-para-iniciantes)
 - 💬 Pergunte-me sobre Spring Boot
