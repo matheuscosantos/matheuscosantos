@@ -9,6 +9,7 @@
   - Trabalho de graduação - Sistema de gerenciamento e execução de testes em sistemas web administrativos - Docker, Flask e Selenium
   - [Tutorial para iniciantes sobre Spring Boot](https://github.com/matheuscosantos/tutorial-spring-boot-para-iniciantes)
 - 💬 Pergunte-me sobre Spring Boot
-- 📫 Contato: oliveiramatheus77@gmail.com
+
+[ ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscosantos/)
 
 :shipit:
