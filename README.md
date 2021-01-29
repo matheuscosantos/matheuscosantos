@@ -1,9 +1,7 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Hello World ! </h1>
 
-
-My name is Matheus C O Santos. I work as a Backend Developer at Zup Innovation.
+I work as a Backend Developer at <a href="https://www.zup.com.br/">Zup Innovation.</a>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=matheuscosantos&repo=matheuscosantos&countColorcountColor)
 
@@ -19,6 +17,6 @@ My name is Matheus C O Santos. I work as a Backend Developer at Zup Innovation.
 
 <p align="left">
 
-<a href="www.linkedin.com/in/matheuscosantos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matheuscosantos"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
